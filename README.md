@@ -1,4 +1,4 @@
-TP2(cajero)
+TP2: Sistema de Cajero Automatico 
 
 Integrantes:
 
